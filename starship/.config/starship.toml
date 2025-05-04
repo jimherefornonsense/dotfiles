@@ -1,0 +1,7 @@
+[directory]
+style = 'bold green'
+
+[character]
+success_symbol = '[⚡➜](bold bright-purple)'
+error_symbol = '[⚡➜](bold bright-red)'
+

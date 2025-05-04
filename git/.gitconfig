@@ -1,0 +1,13 @@
+[user]
+	name = jimherefornonsense
+	email = jim.zijingzhou.tw@gmail.com
+
+[core]
+  excludesfile = ~/.config/git/ignore
+  editor = nvim
+
+[alias]
+  co = checkout
+  br = branch
+  ci = commit
+  st = status
