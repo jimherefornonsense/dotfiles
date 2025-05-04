@@ -57,3 +57,17 @@ stow -D zsh
 ```
 
 This removes the symlinks without deleting your actual dotfiles.
+
+### 4. Homebrew Brewfile
+
+To create or update your Brewfile
+
+```bash
+brew bundle dump --describe --file=~/dotfiles/Brewfile --force
+```
+
+To use that Brewfile later (reinstall everything)
+
+```bash
+brew bundle --file=~/dotfiles/Brewfile
+```
