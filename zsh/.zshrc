@@ -12,8 +12,9 @@ eval "$(starship init zsh)" # brew install
 autoload -Uz compinit
 compinit
 
-# Start here
+# Alias
 alias vim=nvim
+alias ls=eza
 # Fuzzy search
 alias fzfind="find . -type f | fzf"
 alias fza="alias | fzf"
