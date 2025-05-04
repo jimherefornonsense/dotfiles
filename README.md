@@ -47,7 +47,7 @@ This will create symlinks in your $HOME like:
 You can also stow everything at once:
 
 ```bash
-stow ^(.git|README.md)(/) 
+stow ^(.git|README.md|Brewfile)(/) 
 ```
 
 🔄 To Unlink (Unstow)
