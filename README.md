@@ -1,6 +1,6 @@
 # 🛠 My Dotfiles (Managed with GNU Stow)
 
-This repository contains my personal configuration files (dotfiles) for tools like `zsh`, `git`, `nvim`, and `tmux`.  
+This repository contains my personal configuration files (dotfiles) for tools like `zsh`, `git`, and `nvim`.
 It uses [GNU Stow](https://www.gnu.org/software/stow/) to manage symbolic links into the home directory.
 
 ---
