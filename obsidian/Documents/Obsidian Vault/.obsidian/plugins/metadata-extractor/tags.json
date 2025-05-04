@@ -1,0 +1,88 @@
+[
+  {
+    "tag": "banner",
+    "tagCount": 1,
+    "relativePaths": [
+      "Ocean/Materials.md"
+    ]
+  },
+  {
+    "tag": "picture",
+    "tagCount": 1,
+    "relativePaths": [
+      "Ocean/Materials.md"
+    ]
+  },
+  {
+    "tag": "image",
+    "tagCount": 1,
+    "relativePaths": [
+      "Ocean/Materials.md"
+    ]
+  },
+  {
+    "tag": "illustration",
+    "tagCount": 1,
+    "relativePaths": [
+      "Ocean/Materials.md"
+    ]
+  },
+  {
+    "tag": "dinner",
+    "tagCount": 7,
+    "relativePaths": [
+      "Crew/Diet/Lazy Mood/Japanese/牛丼.md",
+      "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md",
+      "Crew/Diet/Lazy Mood/American/美式焗烤通心粉.md",
+      "Crew/Diet/Lazy Mood/American/烤鮭魚.md",
+      "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md",
+      "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md",
+      "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+    ]
+  },
+  {
+    "tag": "easy",
+    "tagCount": 2,
+    "relativePaths": [
+      "Crew/Diet/Lazy Mood/Japanese/牛丼.md",
+      "Crew/Diet/Lazy Mood/American/烤鮭魚.md"
+    ]
+  },
+  {
+    "tag": "japanese",
+    "tagCount": 1,
+    "relativePaths": [
+      "Crew/Diet/Lazy Mood/Japanese/牛丼.md"
+    ]
+  },
+  {
+    "tag": "italian",
+    "tagCount": 1,
+    "relativePaths": [
+      "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
+    ]
+  },
+  {
+    "tag": "spicy",
+    "tagCount": 1,
+    "relativePaths": [
+      "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
+    ]
+  },
+  {
+    "tag": "light",
+    "tagCount": 1,
+    "relativePaths": [
+      "Crew/Diet/Lazy Mood/American/烤鮭魚.md"
+    ]
+  },
+  {
+    "tag": "side",
+    "tagCount": 3,
+    "relativePaths": [
+      "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md",
+      "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md",
+      "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+    ]
+  }
+]

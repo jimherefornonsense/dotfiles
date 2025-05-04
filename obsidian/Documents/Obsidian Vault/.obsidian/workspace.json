@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "9c13b1a7c71a2aba",
+    "type": "split",
+    "children": [
+      {
+        "id": "05ecfb5ad6dc2817",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "491667b933520236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sailing Map.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sailing Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f39ee77136488ccf",
+    "type": "split",
+    "children": [
+      {
+        "id": "82d42184d1614895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0084194b9a85273b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0c6c2d244816e8c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Example",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "36bb4fd8cf6dc16e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "right": {
+    "id": "3f7c6f52a68d9e48",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee8d742847c06890",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c2d81e4c8bfd565",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3203873818bb35b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "05607b6a1c684df3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "72cabb0762931bc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "53e8b43c1232ef62",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "fdf747d059b6019c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "daily-notes:Open today's daily note": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "491667b933520236",
+  "lastOpenFiles": [
+    "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md",
+    "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md",
+    "Work/Projects/Mind Anchor/Mind Map.canvas",
+    "Sailing Map.md",
+    "Crew/Diet/Recipes.md",
+    "Ocean/咖哩優格雞.md",
+    "Work/Projects/How to wash Lala.md",
+    "Work/Projects/Mind Anchor.md",
+    "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md",
+    "Work/Projects/L4 - L5 Amazon.md",
+    "Task.md",
+    "Ocean/Markdown Cheat Sheet.md",
+    "Test canvas.canvas",
+    "Ocean/Untitled.md",
+    "Work/Projects/Chess.md",
+    "Daily/2024-06-16.md",
+    "_Material Store_/Templates/T Task Bank.md",
+    "Work/Projects/給昏.md",
+    "Daily/2024-06-20.md",
+    "Daily/2024-06-18.md",
+    "Ocean/2024-06-18.md",
+    "Ocean/Shrimp.md",
+    "Ocean/Spicy-Sweet Buffalo Popcorn.md",
+    "Daily/2024-06-17.md",
+    "Daily/2024-06-15.md",
+    "Daily/Untitled.md",
+    "_Material Store_/Templates/T Callout.md",
+    "_Material Store_/Templates/T Contact.md",
+    "Daily",
+    "Crew/Social/Life/Taiwan",
+    "Crew/Social/Life/Fam",
+    "Crew/Life/Social/Life",
+    "Crew/Life/Social",
+    "Crew/Life",
+    "Crew/Social/Life/SoCal",
+    "Crew/Social/Life",
+    "Extras/People",
+    "Extras",
+    "_Material Store_/Banners/Cafe.jpg",
+    "_Material Store_/Banners/Map.jpg",
+    "_Material Store_/Banners/Spicy popcorn.jpeg",
+    "_Material Store_/Banners/Smores.jpeg",
+    "_Material Store_/Banners/Kitchen.jpeg",
+    "_Material Store_/Banners/Books.jpg",
+    "_Material Store_/Banners/YouTubeFromSergio.png",
+    "_Material Store_/Templates/DashboardPlusPlus-master/images/home.jpg",
+    "_Material Store_/Templates/DashboardPlusPlus-master/images/YouTubeFromSergio.png",
+    "_Material Store_/Templates/DashboardPlusPlus-master/images/Spicy popcorn.jpeg"
+  ]
+}

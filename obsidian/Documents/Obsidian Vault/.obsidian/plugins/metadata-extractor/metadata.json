@@ -1,0 +1,1881 @@
+[
+  {
+    "fileName": "T Title Prompt",
+    "relativePath": "_Material Store_/Templates/T Title Prompt.md"
+  },
+  {
+    "fileName": "T Task Bank",
+    "relativePath": "_Material Store_/Templates/T Task Bank.md",
+    "headings": [
+      {
+        "heading": "Task Bank",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "T Map",
+    "relativePath": "_Material Store_/Templates/T Map.md",
+    "frontmatter": {
+      "cssclasses": "dashboard",
+      "banner": null,
+      "banner_y": 0.565,
+      "banner_lock": true
+    },
+    "headings": [
+      {
+        "heading": "Category 1",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "T Contact",
+    "relativePath": "_Material Store_/Templates/T Contact.md",
+    "frontmatter": {
+      "number": null,
+      "email": null,
+      "city": null,
+      "occupation": null,
+      "brithday": null,
+      "instagram": null
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "T Callout",
+    "relativePath": "_Material Store_/Templates/T Callout.md"
+  },
+  {
+    "fileName": "給昏",
+    "relativePath": "Work/Projects/給昏.md",
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "給昏",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Mind Anchor",
+    "relativePath": "Work/Projects/Mind Anchor.md",
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Mind Anchor",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "L4 - L5 Amazon",
+    "relativePath": "Work/Projects/L4 - L5 Amazon.md",
+    "frontmatter": {
+      "Status": "Doing",
+      "Archive": false
+    },
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "L4 - L5 Amazon",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "How to wash Lala",
+    "relativePath": "Work/Projects/How to wash Lala.md"
+  },
+  {
+    "fileName": "Chess",
+    "relativePath": "Work/Projects/Chess.md",
+    "frontmatter": {
+      "Status": "Doing",
+      "Archive": false,
+      "Related to All Tasks Archive (Column)": [
+        "[[Chess Project 6]]",
+        "[[Chess AI meeting]]",
+        "[[Chess Project 4]]",
+        "[[Chess Project 3]]",
+        "[[Chess AI meeting 3]]",
+        "[[Chess Project 5]]",
+        "[[Chess Project]]"
+      ]
+    },
+    "headings": [
+      {
+        "heading": "All Tasks Archive",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Chess Project"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Chess",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Investment",
+    "relativePath": "Work/Financial/Investment.md",
+    "frontmatter": {
+      "Status": "Doing",
+      "Archive": false
+    },
+    "headings": [
+      {
+        "heading": "CDs(Certificate Deposits) or Savings",
+        "level": 3
+      },
+      {
+        "heading": "Stocks and ETFs",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Investment",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Task",
+    "relativePath": "Task.md"
+  },
+  {
+    "fileName": "Sailing Map",
+    "relativePath": "Sailing Map.md",
+    "frontmatter": {
+      "cssclasses": [
+        "dashboard"
+      ],
+      "banner": "![[Map.jpg]]",
+      "banner_y": 0.3,
+      "banner_lock": true
+    },
+    "headings": [
+      {
+        "heading": "Crew",
+        "level": 1
+      },
+      {
+        "heading": "Work",
+        "level": 1
+      },
+      {
+        "heading": "Vault Info",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Recipes",
+        "relativePath": "Crew/Diet/Recipes.md"
+      },
+      {
+        "link": "Phonebook",
+        "relativePath": "Crew/Social/Phonebook.md"
+      },
+      {
+        "link": "Spain",
+        "relativePath": "Crew/Vacations/Spain.md"
+      },
+      {
+        "link": "Atomic Habits",
+        "relativePath": "Crew/Books/Atomic Habits.md"
+      },
+      {
+        "link": "Psychology of Money",
+        "relativePath": "Crew/Books/Psychology of Money.md"
+      },
+      {
+        "link": "給昏",
+        "relativePath": "Work/Projects/給昏.md"
+      },
+      {
+        "link": "L4 - L5 Amazon",
+        "relativePath": "Work/Projects/L4 - L5 Amazon.md"
+      },
+      {
+        "link": "Chess",
+        "relativePath": "Work/Projects/Chess.md"
+      },
+      {
+        "link": "Mind Anchor",
+        "relativePath": "Work/Projects/Mind Anchor.md"
+      },
+      {
+        "link": "Investment",
+        "relativePath": "Work/Financial/Investment.md"
+      }
+    ]
+  },
+  {
+    "fileName": "咖哩優格雞",
+    "relativePath": "Ocean/咖哩優格雞.md",
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "咖哩優格雞",
+        "relativePath": "Crew/Diet/Recipes.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Q1 2022",
+    "relativePath": "Ocean/Q1 2022.md"
+  },
+  {
+    "fileName": "Peru",
+    "relativePath": "Ocean/Peru.md"
+  },
+  {
+    "fileName": "OhMyZsh",
+    "relativePath": "Ocean/OhMyZsh.md",
+    "headings": [
+      {
+        "heading": "Plugins",
+        "level": 2
+      },
+      {
+        "heading": "macos",
+        "level": 3
+      },
+      {
+        "heading": "git",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "fileName": "Obsidian Plugin Book",
+    "relativePath": "Ocean/Obsidian Plugin Book.md",
+    "headings": [
+      {
+        "heading": "Tasks",
+        "level": 2
+      },
+      {
+        "heading": "Templater",
+        "level": 2
+      },
+      {
+        "heading": "Dataview",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Materials",
+    "relativePath": "Ocean/Materials.md",
+    "tags": [
+      "banner",
+      "picture",
+      "image",
+      "illustration"
+    ]
+  },
+  {
+    "fileName": "Markdown Cheat Sheet",
+    "relativePath": "Ocean/Markdown Cheat Sheet.md",
+    "headings": [
+      {
+        "heading": "Headings",
+        "level": 1
+      },
+      {
+        "heading": "Heading 1",
+        "level": 1
+      },
+      {
+        "heading": "Heading 2",
+        "level": 2
+      },
+      {
+        "heading": "Heading 3",
+        "level": 3
+      },
+      {
+        "heading": "Heading 4",
+        "level": 4
+      },
+      {
+        "heading": "Heading 5",
+        "level": 5
+      },
+      {
+        "heading": "Heading 1",
+        "level": 1
+      },
+      {
+        "heading": "Heading 2",
+        "level": 2
+      },
+      {
+        "heading": "Text styles",
+        "level": 1
+      },
+      {
+        "heading": "Normal",
+        "level": 2
+      },
+      {
+        "heading": "Bold",
+        "level": 2
+      },
+      {
+        "heading": "Italic",
+        "level": 2
+      },
+      {
+        "heading": "Bold and Italic",
+        "level": 2
+      },
+      {
+        "heading": "Blockquotes",
+        "level": 2
+      },
+      {
+        "heading": "Monospaced",
+        "level": 2
+      },
+      {
+        "heading": "Underlined",
+        "level": 2
+      },
+      {
+        "heading": "Strike-through",
+        "level": 2
+      },
+      {
+        "heading": "Boxed",
+        "level": 2
+      },
+      {
+        "heading": "Subscript",
+        "level": 2
+      },
+      {
+        "heading": "Superscript",
+        "level": 2
+      },
+      {
+        "heading": "Text Color",
+        "level": 2
+      },
+      {
+        "heading": "Syntax Highlighting",
+        "level": 1
+      },
+      {
+        "heading": "Inline code",
+        "level": 2
+      },
+      {
+        "heading": "Code block",
+        "level": 2
+      },
+      {
+        "heading": "Diff Code block",
+        "level": 2
+      },
+      {
+        "heading": "Alignments",
+        "level": 1
+      },
+      {
+        "heading": "Tables",
+        "level": 1
+      },
+      {
+        "heading": "Links",
+        "level": 1
+      },
+      {
+        "heading": "Inline",
+        "level": 2
+      },
+      {
+        "heading": "Reference",
+        "level": 2
+      },
+      {
+        "heading": "Footnote",
+        "level": 2
+      },
+      {
+        "heading": "Relative",
+        "level": 2
+      },
+      {
+        "heading": "Auto",
+        "level": 2
+      },
+      {
+        "heading": "Section",
+        "level": 2
+      },
+      {
+        "heading": "Hover",
+        "level": 2
+      },
+      {
+        "heading": "Images",
+        "level": 1
+      },
+      {
+        "heading": "Theme",
+        "level": 2
+      },
+      {
+        "heading": "Badges",
+        "level": 1
+      },
+      {
+        "heading": "Lists",
+        "level": 1
+      },
+      {
+        "heading": "Ordered",
+        "level": 2
+      },
+      {
+        "heading": "Unordered",
+        "level": 2
+      },
+      {
+        "heading": "Task",
+        "level": 2
+      },
+      {
+        "heading": "Buttons",
+        "level": 1
+      },
+      {
+        "heading": "Button with emoji",
+        "level": 2
+      },
+      {
+        "heading": "Collapsible items (28 July 2023)",
+        "level": 1
+      },
+      {
+        "heading": "Horizontal Rule",
+        "level": 1
+      },
+      {
+        "heading": "Diagrams (19 July 2022)",
+        "level": 1
+      },
+      {
+        "heading": "Mathematical expressions (19 July 2022)",
+        "level": 1
+      },
+      {
+        "heading": "Alerts (8 January 2024)",
+        "level": 1
+      },
+      {
+        "heading": "Mention people and teams",
+        "level": 1
+      },
+      {
+        "heading": "Reference issues and pull requests",
+        "level": 1
+      },
+      {
+        "heading": "Color models",
+        "level": 1
+      },
+      {
+        "heading": "View Code",
+        "level": 1
+      },
+      {
+        "heading": "Miscellaneous",
+        "level": 1
+      },
+      {
+        "heading": "Comments",
+        "level": 2
+      },
+      {
+        "heading": "Escaping Markdown Characters",
+        "level": 2
+      },
+      {
+        "heading": "Hash symbol",
+        "level": 1
+      },
+      {
+        "heading": "Emojis",
+        "level": 2
+      },
+      {
+        "heading": "Line break",
+        "level": 2
+      },
+      {
+        "heading": "Back to top",
+        "level": 2
+      },
+      {
+        "heading": "Bitbucket",
+        "level": 1
+      },
+      {
+        "heading": "Azure DevOps Project wiki",
+        "level": 1
+      },
+      {
+        "heading": "MDX",
+        "level": 1
+      },
+      {
+        "heading": "Tools",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "#headings",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Headings"
+      },
+      {
+        "link": "#text-styles",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Text styles"
+      },
+      {
+        "link": "#normal",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Normal"
+      },
+      {
+        "link": "#bold",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Bold"
+      },
+      {
+        "link": "#italic",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Italic"
+      },
+      {
+        "link": "#bold-and-italic",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Bold and Italic"
+      },
+      {
+        "link": "#blockquotes",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Blockquotes"
+      },
+      {
+        "link": "#monospaced",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Monospaced"
+      },
+      {
+        "link": "#underlined",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Underlined"
+      },
+      {
+        "link": "#strike-through",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Strike-through"
+      },
+      {
+        "link": "#boxed",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Boxed"
+      },
+      {
+        "link": "#subscript",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Subscript"
+      },
+      {
+        "link": "#superscript",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Superscript"
+      },
+      {
+        "link": "#text-color",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Text Color"
+      },
+      {
+        "link": "#syntax-highlighting",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Syntax Highlighting"
+      },
+      {
+        "link": "#inline-code",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Inline code"
+      },
+      {
+        "link": "#code-block",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Code block"
+      },
+      {
+        "link": "#diff-code-block",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Diff Code block"
+      },
+      {
+        "link": "#alignments",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Alignments"
+      },
+      {
+        "link": "#tables",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Tables"
+      },
+      {
+        "link": "#links",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Links"
+      },
+      {
+        "link": "#inline",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Inline"
+      },
+      {
+        "link": "#reference",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Reference"
+      },
+      {
+        "link": "#footnote",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Footnote"
+      },
+      {
+        "link": "#relative",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Relative"
+      },
+      {
+        "link": "#auto",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Auto"
+      },
+      {
+        "link": "#section",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Section"
+      },
+      {
+        "link": "#hover",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Hover"
+      },
+      {
+        "link": "#images",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Images"
+      },
+      {
+        "link": "#theme",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Theme"
+      },
+      {
+        "link": "#badges",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Badges"
+      },
+      {
+        "link": "#lists",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Lists"
+      },
+      {
+        "link": "#ordered",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Ordered"
+      },
+      {
+        "link": "#unordered",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Unordered"
+      },
+      {
+        "link": "#task",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Task"
+      },
+      {
+        "link": "#buttons",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Buttons"
+      },
+      {
+        "link": "#button-with-emoji",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Button with emoji"
+      },
+      {
+        "link": "#collapsible-items-28-july-2023",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Collapsible items (28 July 2023)"
+      },
+      {
+        "link": "#horizontal-rule",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Horizontal Rule"
+      },
+      {
+        "link": "#diagrams-19-july-2022",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Diagrams (19 July 2022)"
+      },
+      {
+        "link": "#mathematical-expressions-19-july-2022",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Mathematical expressions (19 July 2022)"
+      },
+      {
+        "link": "#alerts-8-january-2024",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Alerts (8 January 2024)"
+      },
+      {
+        "link": "#mention-people-and-teams",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Mention people and teams"
+      },
+      {
+        "link": "#reference-issues-and-pull-requests",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Reference issues and pull requests"
+      },
+      {
+        "link": "#color-models",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Color models"
+      },
+      {
+        "link": "#view-code",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "View Code"
+      },
+      {
+        "link": "#miscellaneous",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Miscellaneous"
+      },
+      {
+        "link": "#comments",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Comments"
+      },
+      {
+        "link": "#escaping-markdown-characters",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Escaping Markdown Characters"
+      },
+      {
+        "link": "#hash-symbol",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Hash symbol"
+      },
+      {
+        "link": "#emojis",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Emojis"
+      },
+      {
+        "link": "#line-break",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Line break"
+      },
+      {
+        "link": "#back-to-top",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Back to top"
+      },
+      {
+        "link": "#bitbucket",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Bitbucket"
+      },
+      {
+        "link": "#azure-devops-project-wiki",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Azure DevOps Project wiki"
+      },
+      {
+        "link": "#mdx",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "MDX"
+      },
+      {
+        "link": "#tools",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Tools"
+      },
+      {
+        "link": "#mathematical-expressions-19-july-2022",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "MathJax"
+      },
+      {
+        "link": "MathJax.md",
+        "displayText": "Full Table"
+      },
+      {
+        "link": "rl.md",
+        "displayText": "Example of a relative link"
+      },
+      {
+        "link": "##",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "BinaryTree"
+      },
+      {
+        "link": "#top",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": "Back to top"
+      },
+      {
+        "link": "#top",
+        "relativePath": "Ocean/Markdown Cheat Sheet.md",
+        "cleanLink": "Markdown Cheat Sheet",
+        "displayText": ":arrow_up:"
+      }
+    ]
+  },
+  {
+    "fileName": "Cloud backup",
+    "relativePath": "Ocean/Cloud backup.md"
+  },
+  {
+    "fileName": "Alfred",
+    "relativePath": "Ocean/Alfred.md"
+  },
+  {
+    "fileName": "2024-06-20",
+    "relativePath": "Daily/2024-06-20.md",
+    "headings": [
+      {
+        "heading": "Task Bank",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "2024-06-16",
+    "relativePath": "Daily/2024-06-16.md",
+    "headings": [
+      {
+        "heading": "Task Bank",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Spain",
+    "relativePath": "Crew/Vacations/Spain.md",
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Spain",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Phonebook",
+    "relativePath": "Crew/Social/Phonebook.md",
+    "frontmatter": {
+      "cssclasses": [
+        "dashboard"
+      ],
+      "banner": "![[Cafe.jpg]]",
+      "banner_y": 0.345,
+      "banner_lock": true
+    },
+    "headings": [
+      {
+        "heading": "Life",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Wade Chou",
+        "relativePath": "Crew/Social/Life/Fam/Wade Chou.md"
+      },
+      {
+        "link": "Lisa Belle Lim",
+        "relativePath": "Crew/Social/Life/Fam/Lisa Belle Lim.md"
+      },
+      {
+        "link": "Luke Lin",
+        "relativePath": "Crew/Social/Life/SoCal/Luke Lin.md"
+      },
+      {
+        "link": "Chris Chen",
+        "relativePath": "Crew/Social/Life/SoCal/Chris Chen.md"
+      },
+      {
+        "link": "林庭毅",
+        "relativePath": "Crew/Social/Life/Taiwan/林庭毅.md"
+      },
+      {
+        "link": "簡珮伃",
+        "relativePath": "Crew/Social/Life/Taiwan/簡珮伃.md"
+      },
+      {
+        "link": "王若梅",
+        "relativePath": "Crew/Social/Life/Taiwan/王若梅.md"
+      },
+      {
+        "link": "劉佰亨",
+        "relativePath": "Crew/Social/Life/Taiwan/劉佰亨.md"
+      },
+      {
+        "link": "李元植",
+        "relativePath": "Crew/Social/Life/Taiwan/李元植.md"
+      },
+      {
+        "link": "黃繼遠",
+        "relativePath": "Crew/Social/Life/Taiwan/黃繼遠.md"
+      },
+      {
+        "link": "林依璇",
+        "relativePath": "Crew/Social/Life/Taiwan/林依璇.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Phonebook",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "黃繼遠",
+    "relativePath": "Crew/Social/Life/Taiwan/黃繼遠.md",
+    "frontmatter": {
+      "number": null,
+      "email": "ken61003@gmail.com",
+      "city": "Taichung, Taiwan",
+      "occupation": "Exam Taker",
+      "brithday": null,
+      "instagram": "ken61003"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "黃繼遠",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "簡珮伃",
+    "relativePath": "Crew/Social/Life/Taiwan/簡珮伃.md",
+    "frontmatter": {
+      "number": "+886‭912070757‬",
+      "email": "paigepychien@gmail.com",
+      "city": "Taichung, Taiwan",
+      "occupation": "B2B Sales",
+      "brithday": null,
+      "instagram": "fishfishyeah"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "簡珮伃",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "王若梅",
+    "relativePath": "Crew/Social/Life/Taiwan/王若梅.md",
+    "frontmatter": {
+      "number": null,
+      "email": "itsellenwang@gmail.com",
+      "city": "Taipei, Taiwan",
+      "occupation": "Magazine Editor, Popbee",
+      "brithday": null,
+      "instagram": "ellenonly"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "王若梅",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "林庭毅",
+    "relativePath": "Crew/Social/Life/Taiwan/林庭毅.md",
+    "frontmatter": {
+      "number": "+886911064125‬",
+      "email": "noman511101@hotmail.com",
+      "city": "Taichung, Taiwan",
+      "occupation": "Blockchain Developer, Typus",
+      "brithday": "1991-04-24",
+      "instagram": "stoneprunus"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "林庭毅",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "林依璇",
+    "relativePath": "Crew/Social/Life/Taiwan/林依璇.md",
+    "frontmatter": {
+      "number": null,
+      "email": "linihsuann@gmail.com",
+      "city": null,
+      "occupation": "Airport Counter",
+      "brithday": null,
+      "instagram": "linihsuann"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "林依璇",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "李元植",
+    "relativePath": "Crew/Social/Life/Taiwan/李元植.md",
+    "frontmatter": {
+      "number": null,
+      "email": "uz20025101@gmail.com",
+      "city": "Keelung, Taiwan",
+      "occupation": "Semiconductor Engineer",
+      "brithday": null,
+      "instagram": null
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "李元植",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "劉佰亨",
+    "relativePath": "Crew/Social/Life/Taiwan/劉佰亨.md",
+    "frontmatter": {
+      "number": null,
+      "email": "jra8158@hotmail.com.tw",
+      "city": "Hsinchu, Taiwan",
+      "occupation": "Semiconductor Engineer",
+      "brithday": null,
+      "instagram": "qeqe241533"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "劉佰亨",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Luke Lin",
+    "relativePath": "Crew/Social/Life/SoCal/Luke Lin.md",
+    "frontmatter": {
+      "number": null,
+      "email": "tn00606126@gmail.com",
+      "city": "Los Angeles, CA",
+      "occupation": "Software Engineer, Snapchat",
+      "brithday": null,
+      "instagram": "lukelin1135"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "Luke Lin",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Chris Chen",
+    "relativePath": "Crew/Social/Life/SoCal/Chris Chen.md",
+    "frontmatter": {
+      "number": null,
+      "email": "yingchi1215@me.com",
+      "city": "Los Angeles, CA",
+      "occupation": "Lawyer",
+      "brithday": null,
+      "instagram": "iamchichichen"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "Chris Chen",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Wade Chou",
+    "relativePath": "Crew/Social/Life/Fam/Wade Chou.md",
+    "frontmatter": {
+      "number": null,
+      "email": "Chouwade072@gmail.com",
+      "city": "Vancouver, Canada",
+      "occupation": "Bitcoin",
+      "brithday": null,
+      "instagram": "get842536"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "Wade Chou",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lisa Belle Lim",
+    "relativePath": "Crew/Social/Life/Fam/Lisa Belle Lim.md",
+    "frontmatter": {
+      "number": null,
+      "email": "lisabellelimwl@gmail.com",
+      "city": "Vancouver, Canada",
+      "occupation": "City Officer",
+      "brithday": null,
+      "instagram": "sphenenyx"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "Lisa Belle Lim",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Recipes",
+    "relativePath": "Crew/Diet/Recipes.md",
+    "frontmatter": {
+      "cssclasses": "dashboard",
+      "banner": "![[Kitchen.jpeg]]",
+      "banner_lock": true,
+      "banner_y": 0.59999
+    },
+    "headings": [
+      {
+        "heading": "Lazy Mood",
+        "level": 1
+      },
+      {
+        "heading": "Craving Mood",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "牛丼",
+        "relativePath": "Crew/Diet/Lazy Mood/Japanese/牛丼.md"
+      },
+      {
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
+      },
+      {
+        "link": "咖哩優格雞",
+        "relativePath": "Ocean/咖哩優格雞.md"
+      },
+      {
+        "link": "美式焗烤通心粉",
+        "relativePath": "Crew/Diet/Lazy Mood/American/美式焗烤通心粉.md"
+      },
+      {
+        "link": "烤鮭魚",
+        "relativePath": "Crew/Diet/Lazy Mood/American/烤鮭魚.md"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Recipes",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "牛丼",
+    "relativePath": "Crew/Diet/Lazy Mood/Japanese/牛丼.md",
+    "tags": [
+      "dinner",
+      "easy",
+      "japanese"
+    ],
+    "frontmatter": {
+      "Link": "https://youtu.be/DWHYZN9zpxY",
+      "Star Rating": "★★★★★",
+      "Total Time": "0.5 hr",
+      "Ingredients": [
+        "[[Soy Sauce]]",
+        "[[Chilly Pepper]]",
+        "[[Beef Slices]]",
+        "[[Mirin]]",
+        "[[Onion]]"
+      ],
+      "Try to cook": "Recipes"
+    },
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "牛丼",
+        "relativePath": "Crew/Diet/Recipes.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "牛丼",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "牛丼",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      }
+    ]
+  },
+  {
+    "fileName": "白酒海鮮義大利麵",
+    "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md",
+    "tags": [
+      "dinner",
+      "italian",
+      "spicy"
+    ],
+    "frontmatter": {
+      "Link": "https://www.adaymag.com/2017/07/25/spaghetti-garlic-white-wine-sauce.html",
+      "Star Rating": "★★★★★",
+      "Total Time": "0.7 hr",
+      "Ingredients": [
+        "[[Butter]]",
+        "[[Salt]]",
+        "[[Black Pepper]]",
+        "[[Italian Spices]]",
+        "[[Onion]]",
+        "[[Pasta]]",
+        "[[Chilly Pepper]]",
+        "[[Garlic]]",
+        "[[White Wine]]",
+        "[[Beef Broth]]",
+        "[[White Mushroom]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Recipes.md"
+      },
+      {
+        "fileName": "脆皮五花豬",
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      }
+    ]
+  },
+  {
+    "fileName": "美式焗烤通心粉",
+    "relativePath": "Crew/Diet/Lazy Mood/American/美式焗烤通心粉.md",
+    "tags": [
+      "dinner"
+    ],
+    "frontmatter": {
+      "Link": "https://icook.tw/recipes/145015",
+      "Star Rating": "★★★★★",
+      "Total Time": "0.5 hr",
+      "Ingredients": [
+        "[[Mazzarella Cheese]]",
+        "[[Italian Spices]]",
+        "[[Flour]]",
+        "[[Butter]]",
+        "[[Milk]]",
+        "[[Pasta]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "美式焗烤通心粉",
+        "relativePath": "Crew/Diet/Recipes.md"
+      }
+    ]
+  },
+  {
+    "fileName": "烤鮭魚",
+    "relativePath": "Crew/Diet/Lazy Mood/American/烤鮭魚.md",
+    "tags": [
+      "dinner",
+      "easy",
+      "light"
+    ],
+    "frontmatter": {
+      "Link": "https://www.managertoday.com.tw/eightylife/article/view/1055",
+      "Star Rating": "★★★★",
+      "Total Time": "0.5 hr",
+      "Ingredients": [
+        "[[Salmon Fillet]]",
+        "[[Butter]]",
+        "[[Black Pepper]]",
+        "[[Salt]]"
+      ],
+      "Try to cook": "Recipes"
+    },
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "烤鮭魚",
+        "relativePath": "Crew/Diet/Recipes.md"
+      },
+      {
+        "fileName": "脆皮五花豬",
+        "link": "烤鮭魚",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      }
+    ]
+  },
+  {
+    "fileName": "脆皮五花豬",
+    "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md",
+    "tags": [
+      "dinner",
+      "side"
+    ],
+    "frontmatter": {
+      "Link": "https://www.youtube.com/watch?v=FsmCgcKHuAw&t=254s",
+      "Star Rating": "★★★★",
+      "Total Time": "26 hours",
+      "Ingredients": [
+        "[[Sugar]]",
+        "[[Pork Belly]]",
+        "[[Sand Ginger Powder]]",
+        "[[5 Spices Powder]]",
+        "[[Salt]]",
+        "[[Sake]]"
+      ],
+      "Try to cook": "Recipes"
+    },
+    "headings": [
+      {
+        "heading": "Household List",
+        "level": 4
+      },
+      {
+        "heading": "步驟",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Sake"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "Pork Belly"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "5 Spices Powder"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "Sand Ginger Powder"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "Salt"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "烤鮭魚",
+        "relativePath": "Crew/Diet/Lazy Mood/American/烤鮭魚.md"
+      },
+      {
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
+      },
+      {
+        "link": "Sugar"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Recipes.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      }
+    ]
+  },
+  {
+    "fileName": "玫瑰油雞腿",
+    "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md",
+    "tags": [
+      "dinner",
+      "side"
+    ],
+    "frontmatter": {
+      "Link": "https://www.menustudy.com/blogs/daily-menu/98620",
+      "Star Rating": "★★★★★",
+      "Total Time": "1 hours",
+      "Ingredients": [
+        "[[Sugar]]",
+        "[[Garlic]]",
+        "[[Soy Sauce]]",
+        "[[Spring Onion]]",
+        "[[Chicken Leg]]",
+        "[[Ginger]]",
+        "[[Shaoxing Wine]]",
+        "[[Stew Spices Pack]]",
+        "[[Sichuan Peppercorn]]",
+        "[[Chilly Pepper]]"
+      ],
+      "Try to cook": "Recipes"
+    },
+    "headings": [
+      {
+        "heading": "Household List",
+        "level": 4
+      },
+      {
+        "heading": "步驟",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Shaoxing Wine"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Chicken Leg"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Sichuan Peppercorn"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Stew Spices Pack"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Ginger"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Sugar"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Chilly Pepper"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "牛丼",
+        "relativePath": "Crew/Diet/Lazy Mood/Japanese/牛丼.md"
+      },
+      {
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
+      },
+      {
+        "link": "Soy Sauce"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "牛丼",
+        "relativePath": "Crew/Diet/Lazy Mood/Japanese/牛丼.md"
+      },
+      {
+        "link": "Spring Onion"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Garlic"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Recipes.md"
+      },
+      {
+        "fileName": "脆皮五花豬",
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      }
+    ]
+  },
+  {
+    "fileName": "蒜香奶油蝦",
+    "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md",
+    "tags": [
+      "dinner",
+      "side"
+    ],
+    "frontmatter": {
+      "Link": "https://youtu.be/Z97IgCy4CIc",
+      "Star Rating": "★★★★★",
+      "Total Time": "0.5 hours",
+      "Ingredients": [
+        "[[Garlic]]",
+        "[[Shrimp]]",
+        "[[Spring Onion]]",
+        "[[Black Pepper]]",
+        "[[Butter]]",
+        "[[Soy Sauce]]",
+        "[[Chilly Pepper]]",
+        "[[Sugar]]",
+        "[[Salt]]"
+      ],
+      "Try to cook": "Recipes"
+    },
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Recipes.md"
+      },
+      {
+        "fileName": "脆皮五花豬",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "fileName": "脆皮五花豬",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Psychology of Money",
+    "relativePath": "Crew/Books/Psychology of Money.md",
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Psychology of Money",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Atomic Habits",
+    "relativePath": "Crew/Books/Atomic Habits.md",
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Atomic Habits",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  }
+]

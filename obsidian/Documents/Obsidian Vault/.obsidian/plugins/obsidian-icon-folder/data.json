@@ -1,0 +1,67 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "☑",
+      "🗑",
+      "LiCloudSun",
+      "😌",
+      "LiMegaphone"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Sailing Map.md": {
+    "iconName": "LiCompass",
+    "iconColor": "#7dcac8"
+  },
+  "Ocean": {
+    "iconName": "LiWaves",
+    "iconColor": "#6573e2"
+  },
+  "Work": {
+    "iconName": "LiBrain",
+    "iconColor": "#59a670"
+  },
+  "Crew": {
+    "iconName": "LiSailboat",
+    "iconColor": "#7b6060"
+  },
+  "Crew/Diet/Craving Mood": "😋",
+  "Crew/Diet/Lazy Mood": "😐",
+  "Crew/Diet/Recipes.md": {
+    "iconName": "LiChefHat",
+    "iconColor": "#fff5f5"
+  },
+  "Crew/Social/Phonebook.md": {
+    "iconName": "LiMegaphone",
+    "iconColor": "#faffff"
+  },
+  "Crew/Social/Life": "😌",
+  "Daily": {
+    "iconName": "LiCloudSun",
+    "iconColor": "#e3e3e3"
+  },
+  "Task.md": "☑"
+}

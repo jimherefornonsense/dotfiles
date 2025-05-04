@@ -1,0 +1,15 @@
+{
+  "vimMode": true,
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Ocean",
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_Material Store_/Media",
+  "userIgnoreFilters": [
+    "_Material Store_/"
+  ],
+  "propertiesInDocument": "source",
+  "livePreview": true
+}
