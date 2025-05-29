@@ -1,3 +1,7 @@
+export LIBRARY_PATH="$LIBRARY_PATH:$(brew --prefix)/lib"
+export ANDROID_HOME="$HOME/Library/Android/sdk"
+export PATH="$ANDROID_HOME/platform-tools:$PATH"
+
 # Created by Zap installer
 [ -f "${XDG_DATA_HOME:-$HOME/.local/share}/zap/zap.zsh" ] && source "${XDG_DATA_HOME:-$HOME/.local/share}/zap/zap.zsh"
 plug "Aloxaf/fzf-tab"
