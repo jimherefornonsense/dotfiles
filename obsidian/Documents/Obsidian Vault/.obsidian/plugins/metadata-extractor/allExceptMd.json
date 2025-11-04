@@ -5,16 +5,16 @@
       "relativePath": "/"
     },
     {
+      "name": "Ocean",
+      "relativePath": "Ocean"
+    },
+    {
       "name": "Crew",
       "relativePath": "Crew"
     },
     {
       "name": "Daily",
       "relativePath": "Daily"
-    },
-    {
-      "name": "Ocean",
-      "relativePath": "Ocean"
     },
     {
       "name": "Work",
@@ -25,12 +25,12 @@
       "relativePath": "_Material Store_"
     },
     {
-      "name": "Books",
-      "relativePath": "Crew/Books"
-    },
-    {
       "name": "Diet",
       "relativePath": "Crew/Diet"
+    },
+    {
+      "name": "Books",
+      "relativePath": "Crew/Books"
     },
     {
       "name": "Social",
@@ -41,24 +41,24 @@
       "relativePath": "Crew/Vacations"
     },
     {
-      "name": "Financial",
-      "relativePath": "Work/Financial"
-    },
-    {
       "name": "Projects",
       "relativePath": "Work/Projects"
     },
     {
-      "name": "Banners",
-      "relativePath": "_Material Store_/Banners"
+      "name": "Financial",
+      "relativePath": "Work/Financial"
+    },
+    {
+      "name": "Templates",
+      "relativePath": "_Material Store_/Templates"
     },
     {
       "name": "Media",
       "relativePath": "_Material Store_/Media"
     },
     {
-      "name": "Templates",
-      "relativePath": "_Material Store_/Templates"
+      "name": "Banners",
+      "relativePath": "_Material Store_/Banners"
     },
     {
       "name": "Craving Mood",
@@ -85,12 +85,20 @@
       "relativePath": "Crew/Diet/Craving Mood/Taiwanese"
     },
     {
-      "name": "American",
-      "relativePath": "Crew/Diet/Lazy Mood/American"
+      "name": "SoCal",
+      "relativePath": "Crew/Social/Life/SoCal"
+    },
+    {
+      "name": "Taiwan",
+      "relativePath": "Crew/Social/Life/Taiwan"
     },
     {
       "name": "European",
       "relativePath": "Crew/Diet/Lazy Mood/European"
+    },
+    {
+      "name": "American",
+      "relativePath": "Crew/Diet/Lazy Mood/American"
     },
     {
       "name": "Japanese",
@@ -99,47 +107,9 @@
     {
       "name": "Fam",
       "relativePath": "Crew/Social/Life/Fam"
-    },
-    {
-      "name": "SoCal",
-      "relativePath": "Crew/Social/Life/SoCal"
-    },
-    {
-      "name": "Taiwan",
-      "relativePath": "Crew/Social/Life/Taiwan"
     }
   ],
   "nonMdFiles": [
-    {
-      "name": "Cafe.jpg",
-      "basename": "Cafe",
-      "relativePath": "_Material Store_/Banners/Cafe.jpg"
-    },
-    {
-      "name": "Map.jpg",
-      "basename": "Map",
-      "relativePath": "_Material Store_/Banners/Map.jpg"
-    },
-    {
-      "name": "Books.jpg",
-      "basename": "Books",
-      "relativePath": "_Material Store_/Banners/Books.jpg"
-    },
-    {
-      "name": "Kitchen.jpeg",
-      "basename": "Kitchen",
-      "relativePath": "_Material Store_/Banners/Kitchen.jpeg"
-    },
-    {
-      "name": "Smores.jpeg",
-      "basename": "Smores",
-      "relativePath": "_Material Store_/Banners/Smores.jpeg"
-    },
-    {
-      "name": "Spicy popcorn.jpeg",
-      "basename": "Spicy popcorn",
-      "relativePath": "_Material Store_/Banners/Spicy popcorn.jpeg"
-    },
     {
       "name": "2C9A1EF1-AFE6-4994-8D9D-930F69842906.jpeg",
       "basename": "2C9A1EF1-AFE6-4994-8D9D-930F69842906",
@@ -149,11 +119,6 @@
       "name": "39ce5c49bdf3588837d31f0009a035bf.jpeg",
       "basename": "39ce5c49bdf3588837d31f0009a035bf",
       "relativePath": "_Material Store_/Media/39ce5c49bdf3588837d31f0009a035bf.jpeg"
-    },
-    {
-      "name": "Gyu-Don-09-500x500.jpg",
-      "basename": "Gyu-Don-09-500x500",
-      "relativePath": "_Material Store_/Media/Gyu-Don-09-500x500.jpg"
     },
     {
       "name": "Untitled.png",
@@ -166,19 +131,14 @@
       "relativePath": "_Material Store_/Media/Web_capture_3-6-2023_22147_www.youtube.com.jpeg"
     },
     {
-      "name": "book_(1).png",
-      "basename": "book_(1)",
-      "relativePath": "_Material Store_/Media/book_(1).png"
+      "name": "Gyu-Don-09-500x500.jpg",
+      "basename": "Gyu-Don-09-500x500",
+      "relativePath": "_Material Store_/Media/Gyu-Don-09-500x500.jpg"
     },
     {
-      "name": "books.png",
-      "basename": "books",
-      "relativePath": "_Material Store_/Media/books.png"
-    },
-    {
-      "name": "calendar 2.png",
-      "basename": "calendar 2",
-      "relativePath": "_Material Store_/Media/calendar 2.png"
+      "name": "150728110734-klavens-roxy-2-super-169.jpeg",
+      "basename": "150728110734-klavens-roxy-2-super-169",
+      "relativePath": "_Material Store_/Media/150728110734-klavens-roxy-2-super-169.jpeg"
     },
     {
       "name": "calendar.png",
@@ -201,14 +161,24 @@
       "relativePath": "_Material Store_/Media/content_010c311f-17a1-43cc-85b1-5827bb42ee79.jpg"
     },
     {
+      "name": "book_(1).png",
+      "basename": "book_(1)",
+      "relativePath": "_Material Store_/Media/book_(1).png"
+    },
+    {
+      "name": "books.png",
+      "basename": "books",
+      "relativePath": "_Material Store_/Media/books.png"
+    },
+    {
       "name": "d80f70663e872be11253a8b67716c30b.jpeg",
       "basename": "d80f70663e872be11253a8b67716c30b",
       "relativePath": "_Material Store_/Media/d80f70663e872be11253a8b67716c30b.jpeg"
     },
     {
-      "name": "ereader_(2).png",
-      "basename": "ereader_(2)",
-      "relativePath": "_Material Store_/Media/ereader_(2).png"
+      "name": "calendar 2.png",
+      "basename": "calendar 2",
+      "relativePath": "_Material Store_/Media/calendar 2.png"
     },
     {
       "name": "goal.png",
@@ -219,11 +189,6 @@
       "name": "ice-crystal.png",
       "basename": "ice-crystal",
       "relativePath": "_Material Store_/Media/ice-crystal.png"
-    },
-    {
-      "name": "icons8-arms-up-90.png",
-      "basename": "icons8-arms-up-90",
-      "relativePath": "_Material Store_/Media/icons8-arms-up-90.png"
     },
     {
       "name": "icons8-bust-90.png",
@@ -251,6 +216,16 @@
       "relativePath": "_Material Store_/Media/icons8-literature-90_(1).png"
     },
     {
+      "name": "ereader_(2).png",
+      "basename": "ereader_(2)",
+      "relativePath": "_Material Store_/Media/ereader_(2).png"
+    },
+    {
+      "name": "icons8-arms-up-90.png",
+      "basename": "icons8-arms-up-90",
+      "relativePath": "_Material Store_/Media/icons8-arms-up-90.png"
+    },
+    {
       "name": "icons8-needle-90.png",
       "basename": "icons8-needle-90",
       "relativePath": "_Material Store_/Media/icons8-needle-90.png"
@@ -261,14 +236,14 @@
       "relativePath": "_Material Store_/Media/icons8-reading-90_(1).png"
     },
     {
-      "name": "icons8-return-book-90_(1).png",
-      "basename": "icons8-return-book-90_(1)",
-      "relativePath": "_Material Store_/Media/icons8-return-book-90_(1).png"
-    },
-    {
       "name": "icons8-school-90.png",
       "basename": "icons8-school-90",
       "relativePath": "_Material Store_/Media/icons8-school-90.png"
+    },
+    {
+      "name": "icons8-return-book-90_(1).png",
+      "basename": "icons8-return-book-90_(1)",
+      "relativePath": "_Material Store_/Media/icons8-return-book-90_(1).png"
     },
     {
       "name": "icons8-soccer-ball-90_(1).png",
@@ -284,11 +259,6 @@
       "name": "icons8-us-capitol-90_(1).png",
       "basename": "icons8-us-capitol-90_(1)",
       "relativePath": "_Material Store_/Media/icons8-us-capitol-90_(1).png"
-    },
-    {
-      "name": "150728110734-klavens-roxy-2-super-169.jpeg",
-      "basename": "150728110734-klavens-roxy-2-super-169",
-      "relativePath": "_Material Store_/Media/150728110734-klavens-roxy-2-super-169.jpeg"
     },
     {
       "name": "kyoto-01.webp",
@@ -324,6 +294,36 @@
       "name": "截圖_2021-12-15_上午11.44.49.png",
       "basename": "截圖_2021-12-15_上午11.44.49",
       "relativePath": "_Material Store_/Media/截圖_2021-12-15_上午11.44.49.png"
+    },
+    {
+      "name": "Books.jpg",
+      "basename": "Books",
+      "relativePath": "_Material Store_/Banners/Books.jpg"
+    },
+    {
+      "name": "Kitchen.jpeg",
+      "basename": "Kitchen",
+      "relativePath": "_Material Store_/Banners/Kitchen.jpeg"
+    },
+    {
+      "name": "Smores.jpeg",
+      "basename": "Smores",
+      "relativePath": "_Material Store_/Banners/Smores.jpeg"
+    },
+    {
+      "name": "Spicy popcorn.jpeg",
+      "basename": "Spicy popcorn",
+      "relativePath": "_Material Store_/Banners/Spicy popcorn.jpeg"
+    },
+    {
+      "name": "Cafe.jpg",
+      "basename": "Cafe",
+      "relativePath": "_Material Store_/Banners/Cafe.jpg"
+    },
+    {
+      "name": "Map.jpg",
+      "basename": "Map",
+      "relativePath": "_Material Store_/Banners/Map.jpg"
     },
     {
       "name": "Mind Map.canvas",

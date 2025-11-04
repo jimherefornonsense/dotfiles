@@ -1,19 +1,5 @@
 [
   {
-    "fileName": "T Title Prompt",
-    "relativePath": "_Material Store_/Templates/T Title Prompt.md"
-  },
-  {
-    "fileName": "T Task Bank",
-    "relativePath": "_Material Store_/Templates/T Task Bank.md",
-    "headings": [
-      {
-        "heading": "Task Bank",
-        "level": 2
-      }
-    ]
-  },
-  {
     "fileName": "T Map",
     "relativePath": "_Material Store_/Templates/T Map.md",
     "frontmatter": {
@@ -26,6 +12,20 @@
       {
         "heading": "Category 1",
         "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "T Title Prompt",
+    "relativePath": "_Material Store_/Templates/T Title Prompt.md"
+  },
+  {
+    "fileName": "T Task Bank",
+    "relativePath": "_Material Store_/Templates/T Task Bank.md",
+    "headings": [
+      {
+        "heading": "Task Bank",
+        "level": 2
       }
     ]
   },
@@ -52,6 +52,31 @@
     "relativePath": "_Material Store_/Templates/T Callout.md"
   },
   {
+    "fileName": "Investment",
+    "relativePath": "Work/Financial/Investment.md",
+    "frontmatter": {
+      "Status": "Doing",
+      "Archive": false
+    },
+    "headings": [
+      {
+        "heading": "CDs(Certificate Deposits) or Savings",
+        "level": 3
+      },
+      {
+        "heading": "Stocks and ETFs",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Investment",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
     "fileName": "給昏",
     "relativePath": "Work/Projects/給昏.md",
     "backlinks": [
@@ -61,36 +86,6 @@
         "relativePath": "Sailing Map.md"
       }
     ]
-  },
-  {
-    "fileName": "Mind Anchor",
-    "relativePath": "Work/Projects/Mind Anchor.md",
-    "backlinks": [
-      {
-        "fileName": "Sailing Map",
-        "link": "Mind Anchor",
-        "relativePath": "Sailing Map.md"
-      }
-    ]
-  },
-  {
-    "fileName": "L4 - L5 Amazon",
-    "relativePath": "Work/Projects/L4 - L5 Amazon.md",
-    "frontmatter": {
-      "Status": "Doing",
-      "Archive": false
-    },
-    "backlinks": [
-      {
-        "fileName": "Sailing Map",
-        "link": "L4 - L5 Amazon",
-        "relativePath": "Sailing Map.md"
-      }
-    ]
-  },
-  {
-    "fileName": "How to wash Lala",
-    "relativePath": "Work/Projects/How to wash Lala.md"
   },
   {
     "fileName": "Chess",
@@ -128,26 +123,31 @@
     ]
   },
   {
-    "fileName": "Investment",
-    "relativePath": "Work/Financial/Investment.md",
+    "fileName": "How to wash Lala",
+    "relativePath": "Work/Projects/How to wash Lala.md"
+  },
+  {
+    "fileName": "Mind Anchor",
+    "relativePath": "Work/Projects/Mind Anchor.md",
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Mind Anchor",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "L4 - L5 Amazon",
+    "relativePath": "Work/Projects/L4 - L5 Amazon.md",
     "frontmatter": {
       "Status": "Doing",
       "Archive": false
     },
-    "headings": [
-      {
-        "heading": "CDs(Certificate Deposits) or Savings",
-        "level": 3
-      },
-      {
-        "heading": "Stocks and ETFs",
-        "level": 3
-      }
-    ],
     "backlinks": [
       {
         "fileName": "Sailing Map",
-        "link": "Investment",
+        "link": "L4 - L5 Amazon",
         "relativePath": "Sailing Map.md"
       }
     ]
@@ -157,70 +157,977 @@
     "relativePath": "Task.md"
   },
   {
-    "fileName": "Sailing Map",
-    "relativePath": "Sailing Map.md",
+    "fileName": "2024-06-20",
+    "relativePath": "Daily/2024-06-20.md",
+    "headings": [
+      {
+        "heading": "Task Bank",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "2024-06-16",
+    "relativePath": "Daily/2024-06-16.md",
+    "headings": [
+      {
+        "heading": "Task Bank",
+        "level": 2
+      }
+    ]
+  },
+  {
+    "fileName": "Spain",
+    "relativePath": "Crew/Vacations/Spain.md",
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Spain",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Wade Chou",
+    "relativePath": "Crew/Social/Life/Fam/Wade Chou.md",
+    "frontmatter": {
+      "number": null,
+      "email": "Chouwade072@gmail.com",
+      "city": "Vancouver, Canada",
+      "occupation": "Bitcoin",
+      "brithday": null,
+      "instagram": "get842536"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "Wade Chou",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lisa Belle Lim",
+    "relativePath": "Crew/Social/Life/Fam/Lisa Belle Lim.md",
+    "frontmatter": {
+      "number": null,
+      "email": "lisabellelimwl@gmail.com",
+      "city": "Vancouver, Canada",
+      "occupation": "City Officer",
+      "brithday": null,
+      "instagram": "sphenenyx"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "Lisa Belle Lim",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "簡珮伃",
+    "relativePath": "Crew/Social/Life/Taiwan/簡珮伃.md",
+    "frontmatter": {
+      "number": "+886‭912070757‬",
+      "email": "paigepychien@gmail.com",
+      "city": "Taichung, Taiwan",
+      "occupation": "B2B Sales",
+      "brithday": null,
+      "instagram": "fishfishyeah"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "簡珮伃",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "王若梅",
+    "relativePath": "Crew/Social/Life/Taiwan/王若梅.md",
+    "frontmatter": {
+      "number": null,
+      "email": "itsellenwang@gmail.com",
+      "city": "Taipei, Taiwan",
+      "occupation": "Magazine Editor, Popbee",
+      "brithday": null,
+      "instagram": "ellenonly"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "王若梅",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "黃繼遠",
+    "relativePath": "Crew/Social/Life/Taiwan/黃繼遠.md",
+    "frontmatter": {
+      "number": null,
+      "email": "ken61003@gmail.com",
+      "city": "Taichung, Taiwan",
+      "occupation": "Exam Taker",
+      "brithday": null,
+      "instagram": "ken61003"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "黃繼遠",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "林依璇",
+    "relativePath": "Crew/Social/Life/Taiwan/林依璇.md",
+    "frontmatter": {
+      "number": null,
+      "email": "linihsuann@gmail.com",
+      "city": null,
+      "occupation": "Airport Counter",
+      "brithday": null,
+      "instagram": "linihsuann"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "林依璇",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "李元植",
+    "relativePath": "Crew/Social/Life/Taiwan/李元植.md",
+    "frontmatter": {
+      "number": null,
+      "email": "uz20025101@gmail.com",
+      "city": "Keelung, Taiwan",
+      "occupation": "Semiconductor Engineer",
+      "brithday": null,
+      "instagram": null
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "李元植",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "劉佰亨",
+    "relativePath": "Crew/Social/Life/Taiwan/劉佰亨.md",
+    "frontmatter": {
+      "number": null,
+      "email": "jra8158@hotmail.com.tw",
+      "city": "Hsinchu, Taiwan",
+      "occupation": "Semiconductor Engineer",
+      "brithday": null,
+      "instagram": "qeqe241533"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "劉佰亨",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "林庭毅",
+    "relativePath": "Crew/Social/Life/Taiwan/林庭毅.md",
+    "frontmatter": {
+      "number": "+886911064125‬",
+      "email": "noman511101@hotmail.com",
+      "city": "Taichung, Taiwan",
+      "occupation": "Blockchain Developer, Typus",
+      "brithday": "1991-04-24",
+      "instagram": "stoneprunus"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "林庭毅",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Luke Lin",
+    "relativePath": "Crew/Social/Life/SoCal/Luke Lin.md",
+    "frontmatter": {
+      "number": null,
+      "email": "tn00606126@gmail.com",
+      "city": "Los Angeles, CA",
+      "occupation": "Software Engineer, Snapchat",
+      "brithday": null,
+      "instagram": "lukelin1135"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "Luke Lin",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Chris Chen",
+    "relativePath": "Crew/Social/Life/SoCal/Chris Chen.md",
+    "frontmatter": {
+      "number": null,
+      "email": "yingchi1215@me.com",
+      "city": "Los Angeles, CA",
+      "occupation": "Lawyer",
+      "brithday": null,
+      "instagram": "iamchichichen"
+    },
+    "headings": [
+      {
+        "heading": "Notes",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Phonebook",
+        "link": "Chris Chen",
+        "relativePath": "Crew/Social/Phonebook.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Phonebook",
+    "relativePath": "Crew/Social/Phonebook.md",
     "frontmatter": {
       "cssclasses": [
         "dashboard"
       ],
-      "banner": "![[Map.jpg]]",
-      "banner_y": 0.3,
+      "banner": "![[Cafe.jpg]]",
+      "banner_y": 0.345,
       "banner_lock": true
     },
     "headings": [
       {
-        "heading": "Crew",
-        "level": 1
-      },
-      {
-        "heading": "Work",
-        "level": 1
-      },
-      {
-        "heading": "Vault Info",
+        "heading": "Life",
         "level": 1
       }
     ],
     "links": [
       {
+        "link": "Wade Chou",
+        "relativePath": "Crew/Social/Life/Fam/Wade Chou.md"
+      },
+      {
+        "link": "Lisa Belle Lim",
+        "relativePath": "Crew/Social/Life/Fam/Lisa Belle Lim.md"
+      },
+      {
+        "link": "Luke Lin",
+        "relativePath": "Crew/Social/Life/SoCal/Luke Lin.md"
+      },
+      {
+        "link": "Chris Chen",
+        "relativePath": "Crew/Social/Life/SoCal/Chris Chen.md"
+      },
+      {
+        "link": "林庭毅",
+        "relativePath": "Crew/Social/Life/Taiwan/林庭毅.md"
+      },
+      {
+        "link": "簡珮伃",
+        "relativePath": "Crew/Social/Life/Taiwan/簡珮伃.md"
+      },
+      {
+        "link": "王若梅",
+        "relativePath": "Crew/Social/Life/Taiwan/王若梅.md"
+      },
+      {
+        "link": "劉佰亨",
+        "relativePath": "Crew/Social/Life/Taiwan/劉佰亨.md"
+      },
+      {
+        "link": "李元植",
+        "relativePath": "Crew/Social/Life/Taiwan/李元植.md"
+      },
+      {
+        "link": "黃繼遠",
+        "relativePath": "Crew/Social/Life/Taiwan/黃繼遠.md"
+      },
+      {
+        "link": "林依璇",
+        "relativePath": "Crew/Social/Life/Taiwan/林依璇.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Phonebook",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Psychology of Money",
+    "relativePath": "Crew/Books/Psychology of Money.md",
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Psychology of Money",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Atomic Habits",
+    "relativePath": "Crew/Books/Atomic Habits.md",
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
+        "link": "Atomic Habits",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Recipes",
+    "relativePath": "Crew/Diet/Recipes.md",
+    "frontmatter": {
+      "cssclasses": "dashboard",
+      "banner": "![[Kitchen.jpeg]]",
+      "banner_lock": true,
+      "banner_y": 0.59999
+    },
+    "headings": [
+      {
+        "heading": "Lazy Mood",
+        "level": 1
+      },
+      {
+        "heading": "Craving Mood",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "牛丼",
+        "relativePath": "Crew/Diet/Lazy Mood/Japanese/牛丼.md"
+      },
+      {
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
+      },
+      {
+        "link": "咖哩優格雞",
+        "relativePath": "Ocean/咖哩優格雞.md"
+      },
+      {
+        "link": "美式焗烤通心粉",
+        "relativePath": "Crew/Diet/Lazy Mood/American/美式焗烤通心粉.md"
+      },
+      {
+        "link": "烤鮭魚",
+        "relativePath": "Crew/Diet/Lazy Mood/American/烤鮭魚.md"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sailing Map",
         "link": "Recipes",
+        "relativePath": "Sailing Map.md"
+      }
+    ]
+  },
+  {
+    "fileName": "牛丼",
+    "relativePath": "Crew/Diet/Lazy Mood/Japanese/牛丼.md",
+    "tags": [
+      "dinner",
+      "easy",
+      "japanese"
+    ],
+    "frontmatter": {
+      "Link": "https://youtu.be/DWHYZN9zpxY",
+      "Star Rating": "★★★★★",
+      "Total Time": "0.5 hr",
+      "Ingredients": [
+        "[[Soy Sauce]]",
+        "[[Chilly Pepper]]",
+        "[[Beef Slices]]",
+        "[[Mirin]]",
+        "[[Onion]]"
+      ],
+      "Try to cook": "Recipes"
+    },
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "牛丼",
         "relativePath": "Crew/Diet/Recipes.md"
       },
       {
-        "link": "Phonebook",
-        "relativePath": "Crew/Social/Phonebook.md"
+        "fileName": "玫瑰油雞腿",
+        "link": "牛丼",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
       },
       {
-        "link": "Spain",
-        "relativePath": "Crew/Vacations/Spain.md"
+        "fileName": "玫瑰油雞腿",
+        "link": "牛丼",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      }
+    ]
+  },
+  {
+    "fileName": "美式焗烤通心粉",
+    "relativePath": "Crew/Diet/Lazy Mood/American/美式焗烤通心粉.md",
+    "tags": [
+      "dinner"
+    ],
+    "frontmatter": {
+      "Link": "https://icook.tw/recipes/145015",
+      "Star Rating": "★★★★★",
+      "Total Time": "0.5 hr",
+      "Ingredients": [
+        "[[Mazzarella Cheese]]",
+        "[[Italian Spices]]",
+        "[[Flour]]",
+        "[[Butter]]",
+        "[[Milk]]",
+        "[[Pasta]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "美式焗烤通心粉",
+        "relativePath": "Crew/Diet/Recipes.md"
+      }
+    ]
+  },
+  {
+    "fileName": "烤鮭魚",
+    "relativePath": "Crew/Diet/Lazy Mood/American/烤鮭魚.md",
+    "tags": [
+      "dinner",
+      "easy",
+      "light"
+    ],
+    "frontmatter": {
+      "Link": "https://www.managertoday.com.tw/eightylife/article/view/1055",
+      "Star Rating": "★★★★",
+      "Total Time": "0.5 hr",
+      "Ingredients": [
+        "[[Salmon Fillet]]",
+        "[[Butter]]",
+        "[[Black Pepper]]",
+        "[[Salt]]"
+      ],
+      "Try to cook": "Recipes"
+    },
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "烤鮭魚",
+        "relativePath": "Crew/Diet/Recipes.md"
       },
       {
-        "link": "Atomic Habits",
-        "relativePath": "Crew/Books/Atomic Habits.md"
+        "fileName": "脆皮五花豬",
+        "link": "烤鮭魚",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      }
+    ]
+  },
+  {
+    "fileName": "白酒海鮮義大利麵",
+    "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md",
+    "tags": [
+      "dinner",
+      "italian",
+      "spicy"
+    ],
+    "frontmatter": {
+      "Link": "https://www.adaymag.com/2017/07/25/spaghetti-garlic-white-wine-sauce.html",
+      "Star Rating": "★★★★★",
+      "Total Time": "0.7 hr",
+      "Ingredients": [
+        "[[Butter]]",
+        "[[Salt]]",
+        "[[Black Pepper]]",
+        "[[Italian Spices]]",
+        "[[Onion]]",
+        "[[Pasta]]",
+        "[[Chilly Pepper]]",
+        "[[Garlic]]",
+        "[[White Wine]]",
+        "[[Beef Broth]]",
+        "[[White Mushroom]]"
+      ]
+    },
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Recipes.md"
       },
       {
-        "link": "Psychology of Money",
-        "relativePath": "Crew/Books/Psychology of Money.md"
+        "fileName": "脆皮五花豬",
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
       },
       {
-        "link": "給昏",
-        "relativePath": "Work/Projects/給昏.md"
+        "fileName": "玫瑰油雞腿",
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
       },
       {
-        "link": "L4 - L5 Amazon",
-        "relativePath": "Work/Projects/L4 - L5 Amazon.md"
+        "fileName": "玫瑰油雞腿",
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      }
+    ]
+  },
+  {
+    "fileName": "脆皮五花豬",
+    "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md",
+    "tags": [
+      "dinner",
+      "side"
+    ],
+    "frontmatter": {
+      "Link": "https://www.youtube.com/watch?v=FsmCgcKHuAw&t=254s",
+      "Star Rating": "★★★★",
+      "Total Time": "26 hours",
+      "Ingredients": [
+        "[[Sugar]]",
+        "[[Pork Belly]]",
+        "[[Sand Ginger Powder]]",
+        "[[5 Spices Powder]]",
+        "[[Salt]]",
+        "[[Sake]]"
+      ],
+      "Try to cook": "Recipes"
+    },
+    "headings": [
+      {
+        "heading": "Household List",
+        "level": 4
       },
       {
-        "link": "Chess",
-        "relativePath": "Work/Projects/Chess.md"
+        "heading": "步驟",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Sake"
       },
       {
-        "link": "Mind Anchor",
-        "relativePath": "Work/Projects/Mind Anchor.md"
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
       },
       {
-        "link": "Investment",
-        "relativePath": "Work/Financial/Investment.md"
+        "link": "Pork Belly"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "5 Spices Powder"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "Sand Ginger Powder"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "Salt"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "烤鮭魚",
+        "relativePath": "Crew/Diet/Lazy Mood/American/烤鮭魚.md"
+      },
+      {
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
+      },
+      {
+        "link": "Sugar"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Recipes.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      }
+    ]
+  },
+  {
+    "fileName": "玫瑰油雞腿",
+    "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md",
+    "tags": [
+      "dinner",
+      "side"
+    ],
+    "frontmatter": {
+      "Link": "https://www.menustudy.com/blogs/daily-menu/98620",
+      "Star Rating": "★★★★★",
+      "Total Time": "1 hours",
+      "Ingredients": [
+        "[[Sugar]]",
+        "[[Garlic]]",
+        "[[Soy Sauce]]",
+        "[[Spring Onion]]",
+        "[[Chicken Leg]]",
+        "[[Ginger]]",
+        "[[Shaoxing Wine]]",
+        "[[Stew Spices Pack]]",
+        "[[Sichuan Peppercorn]]",
+        "[[Chilly Pepper]]"
+      ],
+      "Try to cook": "Recipes"
+    },
+    "headings": [
+      {
+        "heading": "Household List",
+        "level": 4
+      },
+      {
+        "heading": "步驟",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Shaoxing Wine"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Chicken Leg"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Sichuan Peppercorn"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Stew Spices Pack"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Ginger"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Sugar"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "脆皮五花豬",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Chilly Pepper"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "牛丼",
+        "relativePath": "Crew/Diet/Lazy Mood/Japanese/牛丼.md"
+      },
+      {
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
+      },
+      {
+        "link": "Soy Sauce"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "牛丼",
+        "relativePath": "Crew/Diet/Lazy Mood/Japanese/牛丼.md"
+      },
+      {
+        "link": "Spring Onion"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "Garlic"
+      },
+      {
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
+      },
+      {
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "link": "白酒海鮮義大利麵",
+        "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Recipes.md"
+      },
+      {
+        "fileName": "脆皮五花豬",
+        "link": "玫瑰油雞腿",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      }
+    ]
+  },
+  {
+    "fileName": "蒜香奶油蝦",
+    "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md",
+    "tags": [
+      "dinner",
+      "side"
+    ],
+    "frontmatter": {
+      "Link": "https://youtu.be/Z97IgCy4CIc",
+      "Star Rating": "★★★★★",
+      "Total Time": "0.5 hours",
+      "Ingredients": [
+        "[[Garlic]]",
+        "[[Shrimp]]",
+        "[[Spring Onion]]",
+        "[[Black Pepper]]",
+        "[[Butter]]",
+        "[[Soy Sauce]]",
+        "[[Chilly Pepper]]",
+        "[[Sugar]]",
+        "[[Salt]]"
+      ],
+      "Try to cook": "Recipes"
+    },
+    "backlinks": [
+      {
+        "fileName": "Recipes",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Recipes.md"
+      },
+      {
+        "fileName": "脆皮五花豬",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "fileName": "脆皮五花豬",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      },
+      {
+        "fileName": "玫瑰油雞腿",
+        "link": "蒜香奶油蝦",
+        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+      }
+    ]
+  },
+  {
+    "fileName": "functional vs non-functional",
+    "relativePath": "Ocean/functional vs non-functional.md",
+    "headings": [
+      {
+        "heading": "✅ Functional Requirements (What the system _should do_)",
+        "level": 3
+      },
+      {
+        "heading": "🚦 Non-Functional Requirements (How the system _should behave_)",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "System design",
+        "link": "functional vs non-functional",
+        "relativePath": "Ocean/System design.md"
+      }
+    ]
+  },
+  {
+    "fileName": "elasticsearch",
+    "relativePath": "Ocean/elasticsearch.md",
+    "backlinks": [
+      {
+        "fileName": "System design",
+        "link": "elasticsearch",
+        "relativePath": "Ocean/System design.md"
       }
     ]
   },
@@ -232,6 +1139,113 @@
         "fileName": "Recipes",
         "link": "咖哩優格雞",
         "relativePath": "Crew/Diet/Recipes.md"
+      }
+    ]
+  },
+  {
+    "fileName": "System design",
+    "relativePath": "Ocean/System design.md",
+    "headings": [
+      {
+        "heading": "Terms",
+        "level": 2
+      },
+      {
+        "heading": "Things to do",
+        "level": 2
+      },
+      {
+        "heading": "Topics",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "functional vs non-functional",
+        "relativePath": "Ocean/functional vs non-functional.md"
+      },
+      {
+        "link": "elasticsearch",
+        "relativePath": "Ocean/elasticsearch.md"
+      },
+      {
+        "link": "Redis",
+        "relativePath": "Ocean/Redis.md"
+      },
+      {
+        "link": "Kafka",
+        "relativePath": "Ocean/Kafka.md"
+      },
+      {
+        "link": "Slowly changing dimensions",
+        "relativePath": "Ocean/Slowly changing dimensions.md"
+      },
+      {
+        "link": "RESTFul"
+      },
+      {
+        "link": "Facebook post search",
+        "relativePath": "Ocean/Facebook post search.md"
+      },
+      {
+        "link": "Dropbox",
+        "relativePath": "Ocean/Dropbox.md"
+      },
+      {
+        "link": "Account management"
+      }
+    ]
+  },
+  {
+    "fileName": "Redis",
+    "relativePath": "Ocean/Redis.md",
+    "backlinks": [
+      {
+        "fileName": "System design",
+        "link": "Redis",
+        "relativePath": "Ocean/System design.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Facebook post search",
+    "relativePath": "Ocean/Facebook post search.md",
+    "headings": [
+      {
+        "heading": "Study conference note",
+        "level": 2
+      },
+      {
+        "heading": "Note on caches",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "System design",
+        "link": "Facebook post search",
+        "relativePath": "Ocean/System design.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Materials",
+    "relativePath": "Ocean/Materials.md",
+    "tags": [
+      "banner",
+      "picture",
+      "image",
+      "illustration"
+    ]
+  },
+  {
+    "fileName": "Slowly changing dimensions",
+    "relativePath": "Ocean/Slowly changing dimensions.md",
+    "backlinks": [
+      {
+        "fileName": "System design",
+        "link": "Slowly changing dimensions",
+        "relativePath": "Ocean/System design.md"
       }
     ]
   },
@@ -280,13 +1294,14 @@
     ]
   },
   {
-    "fileName": "Materials",
-    "relativePath": "Ocean/Materials.md",
-    "tags": [
-      "banner",
-      "picture",
-      "image",
-      "illustration"
+    "fileName": "Kafka",
+    "relativePath": "Ocean/Kafka.md",
+    "backlinks": [
+      {
+        "fileName": "System design",
+        "link": "Kafka",
+        "relativePath": "Ocean/System design.md"
+      }
     ]
   },
   {
@@ -928,6 +1943,17 @@
     ]
   },
   {
+    "fileName": "Dropbox",
+    "relativePath": "Ocean/Dropbox.md",
+    "backlinks": [
+      {
+        "fileName": "System design",
+        "link": "Dropbox",
+        "relativePath": "Ocean/System design.md"
+      }
+    ]
+  },
+  {
     "fileName": "Cloud backup",
     "relativePath": "Ocean/Cloud backup.md"
   },
@@ -936,945 +1962,70 @@
     "relativePath": "Ocean/Alfred.md"
   },
   {
-    "fileName": "2024-06-20",
-    "relativePath": "Daily/2024-06-20.md",
-    "headings": [
-      {
-        "heading": "Task Bank",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "2024-06-16",
-    "relativePath": "Daily/2024-06-16.md",
-    "headings": [
-      {
-        "heading": "Task Bank",
-        "level": 2
-      }
-    ]
-  },
-  {
-    "fileName": "Spain",
-    "relativePath": "Crew/Vacations/Spain.md",
-    "backlinks": [
-      {
-        "fileName": "Sailing Map",
-        "link": "Spain",
-        "relativePath": "Sailing Map.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Phonebook",
-    "relativePath": "Crew/Social/Phonebook.md",
+    "fileName": "Sailing Map",
+    "relativePath": "Sailing Map.md",
     "frontmatter": {
       "cssclasses": [
         "dashboard"
       ],
-      "banner": "![[Cafe.jpg]]",
-      "banner_y": 0.345,
+      "banner": "![[Map.jpg]]",
+      "banner_y": 0.3,
       "banner_lock": true
     },
     "headings": [
       {
-        "heading": "Life",
+        "heading": "Crew",
+        "level": 1
+      },
+      {
+        "heading": "Work",
+        "level": 1
+      },
+      {
+        "heading": "Vault Info",
         "level": 1
       }
     ],
     "links": [
       {
-        "link": "Wade Chou",
-        "relativePath": "Crew/Social/Life/Fam/Wade Chou.md"
-      },
-      {
-        "link": "Lisa Belle Lim",
-        "relativePath": "Crew/Social/Life/Fam/Lisa Belle Lim.md"
-      },
-      {
-        "link": "Luke Lin",
-        "relativePath": "Crew/Social/Life/SoCal/Luke Lin.md"
-      },
-      {
-        "link": "Chris Chen",
-        "relativePath": "Crew/Social/Life/SoCal/Chris Chen.md"
-      },
-      {
-        "link": "林庭毅",
-        "relativePath": "Crew/Social/Life/Taiwan/林庭毅.md"
-      },
-      {
-        "link": "簡珮伃",
-        "relativePath": "Crew/Social/Life/Taiwan/簡珮伃.md"
-      },
-      {
-        "link": "王若梅",
-        "relativePath": "Crew/Social/Life/Taiwan/王若梅.md"
-      },
-      {
-        "link": "劉佰亨",
-        "relativePath": "Crew/Social/Life/Taiwan/劉佰亨.md"
-      },
-      {
-        "link": "李元植",
-        "relativePath": "Crew/Social/Life/Taiwan/李元植.md"
-      },
-      {
-        "link": "黃繼遠",
-        "relativePath": "Crew/Social/Life/Taiwan/黃繼遠.md"
-      },
-      {
-        "link": "林依璇",
-        "relativePath": "Crew/Social/Life/Taiwan/林依璇.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Sailing Map",
-        "link": "Phonebook",
-        "relativePath": "Sailing Map.md"
-      }
-    ]
-  },
-  {
-    "fileName": "黃繼遠",
-    "relativePath": "Crew/Social/Life/Taiwan/黃繼遠.md",
-    "frontmatter": {
-      "number": null,
-      "email": "ken61003@gmail.com",
-      "city": "Taichung, Taiwan",
-      "occupation": "Exam Taker",
-      "brithday": null,
-      "instagram": "ken61003"
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Phonebook",
-        "link": "黃繼遠",
-        "relativePath": "Crew/Social/Phonebook.md"
-      }
-    ]
-  },
-  {
-    "fileName": "簡珮伃",
-    "relativePath": "Crew/Social/Life/Taiwan/簡珮伃.md",
-    "frontmatter": {
-      "number": "+886‭912070757‬",
-      "email": "paigepychien@gmail.com",
-      "city": "Taichung, Taiwan",
-      "occupation": "B2B Sales",
-      "brithday": null,
-      "instagram": "fishfishyeah"
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Phonebook",
-        "link": "簡珮伃",
-        "relativePath": "Crew/Social/Phonebook.md"
-      }
-    ]
-  },
-  {
-    "fileName": "王若梅",
-    "relativePath": "Crew/Social/Life/Taiwan/王若梅.md",
-    "frontmatter": {
-      "number": null,
-      "email": "itsellenwang@gmail.com",
-      "city": "Taipei, Taiwan",
-      "occupation": "Magazine Editor, Popbee",
-      "brithday": null,
-      "instagram": "ellenonly"
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Phonebook",
-        "link": "王若梅",
-        "relativePath": "Crew/Social/Phonebook.md"
-      }
-    ]
-  },
-  {
-    "fileName": "林庭毅",
-    "relativePath": "Crew/Social/Life/Taiwan/林庭毅.md",
-    "frontmatter": {
-      "number": "+886911064125‬",
-      "email": "noman511101@hotmail.com",
-      "city": "Taichung, Taiwan",
-      "occupation": "Blockchain Developer, Typus",
-      "brithday": "1991-04-24",
-      "instagram": "stoneprunus"
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Phonebook",
-        "link": "林庭毅",
-        "relativePath": "Crew/Social/Phonebook.md"
-      }
-    ]
-  },
-  {
-    "fileName": "林依璇",
-    "relativePath": "Crew/Social/Life/Taiwan/林依璇.md",
-    "frontmatter": {
-      "number": null,
-      "email": "linihsuann@gmail.com",
-      "city": null,
-      "occupation": "Airport Counter",
-      "brithday": null,
-      "instagram": "linihsuann"
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Phonebook",
-        "link": "林依璇",
-        "relativePath": "Crew/Social/Phonebook.md"
-      }
-    ]
-  },
-  {
-    "fileName": "李元植",
-    "relativePath": "Crew/Social/Life/Taiwan/李元植.md",
-    "frontmatter": {
-      "number": null,
-      "email": "uz20025101@gmail.com",
-      "city": "Keelung, Taiwan",
-      "occupation": "Semiconductor Engineer",
-      "brithday": null,
-      "instagram": null
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Phonebook",
-        "link": "李元植",
-        "relativePath": "Crew/Social/Phonebook.md"
-      }
-    ]
-  },
-  {
-    "fileName": "劉佰亨",
-    "relativePath": "Crew/Social/Life/Taiwan/劉佰亨.md",
-    "frontmatter": {
-      "number": null,
-      "email": "jra8158@hotmail.com.tw",
-      "city": "Hsinchu, Taiwan",
-      "occupation": "Semiconductor Engineer",
-      "brithday": null,
-      "instagram": "qeqe241533"
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Phonebook",
-        "link": "劉佰亨",
-        "relativePath": "Crew/Social/Phonebook.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Luke Lin",
-    "relativePath": "Crew/Social/Life/SoCal/Luke Lin.md",
-    "frontmatter": {
-      "number": null,
-      "email": "tn00606126@gmail.com",
-      "city": "Los Angeles, CA",
-      "occupation": "Software Engineer, Snapchat",
-      "brithday": null,
-      "instagram": "lukelin1135"
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Phonebook",
-        "link": "Luke Lin",
-        "relativePath": "Crew/Social/Phonebook.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Chris Chen",
-    "relativePath": "Crew/Social/Life/SoCal/Chris Chen.md",
-    "frontmatter": {
-      "number": null,
-      "email": "yingchi1215@me.com",
-      "city": "Los Angeles, CA",
-      "occupation": "Lawyer",
-      "brithday": null,
-      "instagram": "iamchichichen"
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Phonebook",
-        "link": "Chris Chen",
-        "relativePath": "Crew/Social/Phonebook.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Wade Chou",
-    "relativePath": "Crew/Social/Life/Fam/Wade Chou.md",
-    "frontmatter": {
-      "number": null,
-      "email": "Chouwade072@gmail.com",
-      "city": "Vancouver, Canada",
-      "occupation": "Bitcoin",
-      "brithday": null,
-      "instagram": "get842536"
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Phonebook",
-        "link": "Wade Chou",
-        "relativePath": "Crew/Social/Phonebook.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Lisa Belle Lim",
-    "relativePath": "Crew/Social/Life/Fam/Lisa Belle Lim.md",
-    "frontmatter": {
-      "number": null,
-      "email": "lisabellelimwl@gmail.com",
-      "city": "Vancouver, Canada",
-      "occupation": "City Officer",
-      "brithday": null,
-      "instagram": "sphenenyx"
-    },
-    "headings": [
-      {
-        "heading": "Notes",
-        "level": 2
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Phonebook",
-        "link": "Lisa Belle Lim",
-        "relativePath": "Crew/Social/Phonebook.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Recipes",
-    "relativePath": "Crew/Diet/Recipes.md",
-    "frontmatter": {
-      "cssclasses": "dashboard",
-      "banner": "![[Kitchen.jpeg]]",
-      "banner_lock": true,
-      "banner_y": 0.59999
-    },
-    "headings": [
-      {
-        "heading": "Lazy Mood",
-        "level": 1
-      },
-      {
-        "heading": "Craving Mood",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "牛丼",
-        "relativePath": "Crew/Diet/Lazy Mood/Japanese/牛丼.md"
-      },
-      {
-        "link": "白酒海鮮義大利麵",
-        "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
-      },
-      {
-        "link": "咖哩優格雞",
-        "relativePath": "Ocean/咖哩優格雞.md"
-      },
-      {
-        "link": "美式焗烤通心粉",
-        "relativePath": "Crew/Diet/Lazy Mood/American/美式焗烤通心粉.md"
-      },
-      {
-        "link": "烤鮭魚",
-        "relativePath": "Crew/Diet/Lazy Mood/American/烤鮭魚.md"
-      },
-      {
-        "link": "脆皮五花豬",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      },
-      {
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Sailing Map",
         "link": "Recipes",
-        "relativePath": "Sailing Map.md"
-      }
-    ]
-  },
-  {
-    "fileName": "牛丼",
-    "relativePath": "Crew/Diet/Lazy Mood/Japanese/牛丼.md",
-    "tags": [
-      "dinner",
-      "easy",
-      "japanese"
-    ],
-    "frontmatter": {
-      "Link": "https://youtu.be/DWHYZN9zpxY",
-      "Star Rating": "★★★★★",
-      "Total Time": "0.5 hr",
-      "Ingredients": [
-        "[[Soy Sauce]]",
-        "[[Chilly Pepper]]",
-        "[[Beef Slices]]",
-        "[[Mirin]]",
-        "[[Onion]]"
-      ],
-      "Try to cook": "Recipes"
-    },
-    "backlinks": [
-      {
-        "fileName": "Recipes",
-        "link": "牛丼",
         "relativePath": "Crew/Diet/Recipes.md"
       },
       {
-        "fileName": "玫瑰油雞腿",
-        "link": "牛丼",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
+        "link": "Phonebook",
+        "relativePath": "Crew/Social/Phonebook.md"
       },
       {
-        "fileName": "玫瑰油雞腿",
-        "link": "牛丼",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      }
-    ]
-  },
-  {
-    "fileName": "白酒海鮮義大利麵",
-    "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md",
-    "tags": [
-      "dinner",
-      "italian",
-      "spicy"
-    ],
-    "frontmatter": {
-      "Link": "https://www.adaymag.com/2017/07/25/spaghetti-garlic-white-wine-sauce.html",
-      "Star Rating": "★★★★★",
-      "Total Time": "0.7 hr",
-      "Ingredients": [
-        "[[Butter]]",
-        "[[Salt]]",
-        "[[Black Pepper]]",
-        "[[Italian Spices]]",
-        "[[Onion]]",
-        "[[Pasta]]",
-        "[[Chilly Pepper]]",
-        "[[Garlic]]",
-        "[[White Wine]]",
-        "[[Beef Broth]]",
-        "[[White Mushroom]]"
-      ]
-    },
-    "backlinks": [
-      {
-        "fileName": "Recipes",
-        "link": "白酒海鮮義大利麵",
-        "relativePath": "Crew/Diet/Recipes.md"
+        "link": "Spain",
+        "relativePath": "Crew/Vacations/Spain.md"
       },
       {
-        "fileName": "脆皮五花豬",
-        "link": "白酒海鮮義大利麵",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      },
-      {
-        "fileName": "玫瑰油雞腿",
-        "link": "白酒海鮮義大利麵",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "fileName": "玫瑰油雞腿",
-        "link": "白酒海鮮義大利麵",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      }
-    ]
-  },
-  {
-    "fileName": "美式焗烤通心粉",
-    "relativePath": "Crew/Diet/Lazy Mood/American/美式焗烤通心粉.md",
-    "tags": [
-      "dinner"
-    ],
-    "frontmatter": {
-      "Link": "https://icook.tw/recipes/145015",
-      "Star Rating": "★★★★★",
-      "Total Time": "0.5 hr",
-      "Ingredients": [
-        "[[Mazzarella Cheese]]",
-        "[[Italian Spices]]",
-        "[[Flour]]",
-        "[[Butter]]",
-        "[[Milk]]",
-        "[[Pasta]]"
-      ]
-    },
-    "backlinks": [
-      {
-        "fileName": "Recipes",
-        "link": "美式焗烤通心粉",
-        "relativePath": "Crew/Diet/Recipes.md"
-      }
-    ]
-  },
-  {
-    "fileName": "烤鮭魚",
-    "relativePath": "Crew/Diet/Lazy Mood/American/烤鮭魚.md",
-    "tags": [
-      "dinner",
-      "easy",
-      "light"
-    ],
-    "frontmatter": {
-      "Link": "https://www.managertoday.com.tw/eightylife/article/view/1055",
-      "Star Rating": "★★★★",
-      "Total Time": "0.5 hr",
-      "Ingredients": [
-        "[[Salmon Fillet]]",
-        "[[Butter]]",
-        "[[Black Pepper]]",
-        "[[Salt]]"
-      ],
-      "Try to cook": "Recipes"
-    },
-    "backlinks": [
-      {
-        "fileName": "Recipes",
-        "link": "烤鮭魚",
-        "relativePath": "Crew/Diet/Recipes.md"
-      },
-      {
-        "fileName": "脆皮五花豬",
-        "link": "烤鮭魚",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      }
-    ]
-  },
-  {
-    "fileName": "脆皮五花豬",
-    "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md",
-    "tags": [
-      "dinner",
-      "side"
-    ],
-    "frontmatter": {
-      "Link": "https://www.youtube.com/watch?v=FsmCgcKHuAw&t=254s",
-      "Star Rating": "★★★★",
-      "Total Time": "26 hours",
-      "Ingredients": [
-        "[[Sugar]]",
-        "[[Pork Belly]]",
-        "[[Sand Ginger Powder]]",
-        "[[5 Spices Powder]]",
-        "[[Salt]]",
-        "[[Sake]]"
-      ],
-      "Try to cook": "Recipes"
-    },
-    "headings": [
-      {
-        "heading": "Household List",
-        "level": 4
-      },
-      {
-        "heading": "步驟",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Sake"
-      },
-      {
-        "link": "脆皮五花豬",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      },
-      {
-        "link": "Pork Belly"
-      },
-      {
-        "link": "脆皮五花豬",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      },
-      {
-        "link": "5 Spices Powder"
-      },
-      {
-        "link": "脆皮五花豬",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      },
-      {
-        "link": "Sand Ginger Powder"
-      },
-      {
-        "link": "脆皮五花豬",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      },
-      {
-        "link": "Salt"
-      },
-      {
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
-      },
-      {
-        "link": "脆皮五花豬",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      },
-      {
-        "link": "烤鮭魚",
-        "relativePath": "Crew/Diet/Lazy Mood/American/烤鮭魚.md"
-      },
-      {
-        "link": "白酒海鮮義大利麵",
-        "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
-      },
-      {
-        "link": "Sugar"
-      },
-      {
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
-      },
-      {
-        "link": "脆皮五花豬",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      },
-      {
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Recipes",
-        "link": "脆皮五花豬",
-        "relativePath": "Crew/Diet/Recipes.md"
-      },
-      {
-        "fileName": "玫瑰油雞腿",
-        "link": "脆皮五花豬",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      }
-    ]
-  },
-  {
-    "fileName": "玫瑰油雞腿",
-    "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md",
-    "tags": [
-      "dinner",
-      "side"
-    ],
-    "frontmatter": {
-      "Link": "https://www.menustudy.com/blogs/daily-menu/98620",
-      "Star Rating": "★★★★★",
-      "Total Time": "1 hours",
-      "Ingredients": [
-        "[[Sugar]]",
-        "[[Garlic]]",
-        "[[Soy Sauce]]",
-        "[[Spring Onion]]",
-        "[[Chicken Leg]]",
-        "[[Ginger]]",
-        "[[Shaoxing Wine]]",
-        "[[Stew Spices Pack]]",
-        "[[Sichuan Peppercorn]]",
-        "[[Chilly Pepper]]"
-      ],
-      "Try to cook": "Recipes"
-    },
-    "headings": [
-      {
-        "heading": "Household List",
-        "level": 4
-      },
-      {
-        "heading": "步驟",
-        "level": 1
-      }
-    ],
-    "links": [
-      {
-        "link": "Shaoxing Wine"
-      },
-      {
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "link": "Chicken Leg"
-      },
-      {
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "link": "Sichuan Peppercorn"
-      },
-      {
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "link": "Stew Spices Pack"
-      },
-      {
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "link": "Ginger"
-      },
-      {
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "link": "Sugar"
-      },
-      {
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
-      },
-      {
-        "link": "脆皮五花豬",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      },
-      {
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "link": "Chilly Pepper"
-      },
-      {
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
-      },
-      {
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "link": "牛丼",
-        "relativePath": "Crew/Diet/Lazy Mood/Japanese/牛丼.md"
-      },
-      {
-        "link": "白酒海鮮義大利麵",
-        "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
-      },
-      {
-        "link": "Soy Sauce"
-      },
-      {
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
-      },
-      {
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "link": "牛丼",
-        "relativePath": "Crew/Diet/Lazy Mood/Japanese/牛丼.md"
-      },
-      {
-        "link": "Spring Onion"
-      },
-      {
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
-      },
-      {
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "link": "Garlic"
-      },
-      {
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md"
-      },
-      {
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "link": "白酒海鮮義大利麵",
-        "relativePath": "Crew/Diet/Lazy Mood/European/白酒海鮮義大利麵.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Recipes",
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Recipes.md"
-      },
-      {
-        "fileName": "脆皮五花豬",
-        "link": "玫瑰油雞腿",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      }
-    ]
-  },
-  {
-    "fileName": "蒜香奶油蝦",
-    "relativePath": "Crew/Diet/Craving Mood/European/蒜香奶油蝦.md",
-    "tags": [
-      "dinner",
-      "side"
-    ],
-    "frontmatter": {
-      "Link": "https://youtu.be/Z97IgCy4CIc",
-      "Star Rating": "★★★★★",
-      "Total Time": "0.5 hours",
-      "Ingredients": [
-        "[[Garlic]]",
-        "[[Shrimp]]",
-        "[[Spring Onion]]",
-        "[[Black Pepper]]",
-        "[[Butter]]",
-        "[[Soy Sauce]]",
-        "[[Chilly Pepper]]",
-        "[[Sugar]]",
-        "[[Salt]]"
-      ],
-      "Try to cook": "Recipes"
-    },
-    "backlinks": [
-      {
-        "fileName": "Recipes",
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Recipes.md"
-      },
-      {
-        "fileName": "脆皮五花豬",
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      },
-      {
-        "fileName": "脆皮五花豬",
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/脆皮五花豬.md"
-      },
-      {
-        "fileName": "玫瑰油雞腿",
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "fileName": "玫瑰油雞腿",
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "fileName": "玫瑰油雞腿",
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "fileName": "玫瑰油雞腿",
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      },
-      {
-        "fileName": "玫瑰油雞腿",
-        "link": "蒜香奶油蝦",
-        "relativePath": "Crew/Diet/Craving Mood/Taiwanese/玫瑰油雞腿.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Psychology of Money",
-    "relativePath": "Crew/Books/Psychology of Money.md",
-    "backlinks": [
-      {
-        "fileName": "Sailing Map",
-        "link": "Psychology of Money",
-        "relativePath": "Sailing Map.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Atomic Habits",
-    "relativePath": "Crew/Books/Atomic Habits.md",
-    "backlinks": [
-      {
-        "fileName": "Sailing Map",
         "link": "Atomic Habits",
-        "relativePath": "Sailing Map.md"
+        "relativePath": "Crew/Books/Atomic Habits.md"
+      },
+      {
+        "link": "Psychology of Money",
+        "relativePath": "Crew/Books/Psychology of Money.md"
+      },
+      {
+        "link": "給昏",
+        "relativePath": "Work/Projects/給昏.md"
+      },
+      {
+        "link": "L4 - L5 Amazon",
+        "relativePath": "Work/Projects/L4 - L5 Amazon.md"
+      },
+      {
+        "link": "Chess",
+        "relativePath": "Work/Projects/Chess.md"
+      },
+      {
+        "link": "Mind Anchor",
+        "relativePath": "Work/Projects/Mind Anchor.md"
+      },
+      {
+        "link": "Investment",
+        "relativePath": "Work/Financial/Investment.md"
       }
     ]
   }
