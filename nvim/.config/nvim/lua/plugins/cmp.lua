@@ -5,11 +5,9 @@ return {
       "rafamadriz/friendly-snippets",
       "xzbdmw/colorful-menu.nvim",
     },
-    ---@param _ any
-    ---@param opts blink.cmp.Config
-    opts = function(_, opts)
-      opts.sources.default = { "lsp", "path", "snippets", "buffer" }
-      opts.completion = {
+
+    opts = {
+      completion = {
         ghost_text = { enabled = true, show_with_menu = false },
         accept = { auto_brackets = { enabled = true } },
         list = { selection = { auto_insert = false } },
@@ -41,27 +39,43 @@ return {
             },
           },
         },
-      }
+      },
 
-      opts.signature = {
+      signature = {
         enabled = true,
         window = { border = "rounded" },
-      }
-      -- Adapted from the default blink LSP configuration: https://github.com/Saghen/blink.cmp/blob/9f32ef5c3bb44f943238bbcde0c467936475f177/lua/blink/cmp/config/sources.lua#L63
-      opts.sources.providers = {
-        path = {
-          min_keyword_length = 0,
-        },
-        snippets = {
-          min_keyword_length = 2,
-        },
-        buffer = {
-          min_keyword_length = 5,
-          max_items = 5,
-        },
-      }
+      },
 
-      opts.fuzzy = { implementation = "prefer_rust_with_warning" }
-    end,
+      sources = {
+        providers = {
+          lsp = {
+            -- Filter out 'text' items from the LSP provider (use 'buffer' provider for that).
+            transform_items = function(_, items)
+              for _, item in ipairs(items) do
+                if item.kind == require("blink.cmp.types").CompletionItemKind.Snippet then
+                  item.score_offset = item.score_offset - 3
+                end
+              end
+              return vim.tbl_filter(function(item)
+                return item.kind ~= require("blink.cmp.types").CompletionItemKind.Text
+              end, items)
+            end,
+            async = true, -- Show partial results while waiting for all providers.
+            timeout_ms = 200, -- Maximum time to wait before showing partial results.
+            min_keyword_length = 0, -- Minimum characters that trigger the provider.
+          },
+          path = {
+            min_keyword_length = 0,
+          },
+          snippets = {
+            min_keyword_length = 2,
+          },
+          buffer = {
+            min_keyword_length = 5,
+            max_items = 5,
+          },
+        },
+      },
+    },
   },
 }
