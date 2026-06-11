@@ -1,5 +1,6 @@
 {
   "pinned": [
-    "obsidian-emoji-toolbar:emoji-picker:open-picker"
+    "obsidian-emoji-toolbar:emoji-picker:open-picker",
+    "editor:insert-wikilink"
   ]
 }

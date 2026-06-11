@@ -7,6 +7,10 @@ return {
     },
 
     opts = {
+      keymap = {
+        preset = "super-tab",
+      },
+
       completion = {
         ghost_text = { enabled = true, show_with_menu = false },
         accept = { auto_brackets = { enabled = true } },

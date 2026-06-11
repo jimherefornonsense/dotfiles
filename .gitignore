@@ -1,0 +1,16 @@
+.DS_Store
+
+# Generated Neovim plugin lockfile
+nvim/.config/nvim/lazy-lock.json
+
+# Local app auth/state
+gh/.config/gh/hosts.yml
+
+# Obsidian local workspace/session state
+obsidian/Documents/Obsidian Vault/.obsidian/workspace.json
+
+# Obsidian Metadata Extractor generated indexes
+obsidian/Documents/Obsidian Vault/.obsidian/plugins/metadata-extractor/allExceptMd.json
+obsidian/Documents/Obsidian Vault/.obsidian/plugins/metadata-extractor/canvas.json
+obsidian/Documents/Obsidian Vault/.obsidian/plugins/metadata-extractor/metadata.json
+obsidian/Documents/Obsidian Vault/.obsidian/plugins/metadata-extractor/tags.json

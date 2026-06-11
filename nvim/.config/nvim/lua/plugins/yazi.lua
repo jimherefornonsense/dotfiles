@@ -8,15 +8,15 @@ return {
   keys = {
     -- open yazi in at the current file
     {
-      "<leader>y",
+      "<leader>e",
       "<cmd>Yazi<cr>",
       desc = "Open Yazi at current file",
     },
     -- open yazi in the current working directory
     {
-      "<leader>yc",
+      "<leader>E",
       "<cmd>Yazi cwd<cr>",
-      desc = "Open the file manager in nvim's working directory",
+      desc = "Open Yazi at cwd",
     },
   },
   opts = {
