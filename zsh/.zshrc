@@ -13,6 +13,42 @@ plug "MichaelAquilina/zsh-you-should-use"
 plug "agkozak/zsh-z"
 eval "$(starship init zsh)" # brew install 
 
+# Update Homebrew- and Zap-managed tools once every 24 hours. Run in the
+# background so opening a new shell is not blocked.
+daily_tool_update() {
+  local cache_dir="${XDG_CACHE_HOME:-$HOME/.cache}/daily-tool-update"
+  local timestamp_file="$cache_dir/last-run"
+  local log_file="$cache_dir/update.log"
+  local last_run=0
+
+  zmodload zsh/datetime
+  [[ -r "$timestamp_file" ]] && read -r last_run < "$timestamp_file"
+  [[ "$last_run" == <-> ]] || last_run=0
+
+  (( EPOCHSECONDS - last_run >= 86400 )) || return
+
+  command mkdir -p "$cache_dir" || return
+  print -r -- "$EPOCHSECONDS" >| "$timestamp_file"
+
+  (
+    local exit_code=0
+    print -r -- "[$(date '+%Y-%m-%d %H:%M:%S')] Starting daily tool update"
+
+    if command -v brew >/dev/null 2>&1; then
+      brew update && brew upgrade --no-ask && brew cleanup || exit_code=$?
+    fi
+
+    if (( $+functions[zap] )); then
+      zap update all || exit_code=$?
+    fi
+
+    print -r -- "[$(date '+%Y-%m-%d %H:%M:%S')] Finished with status $exit_code"
+    return $exit_code
+  ) </dev/null >> "$log_file" 2>&1 &!
+}
+
+daily_tool_update
+
 # Load and initialise completion system
 autoload -Uz compinit
 compinit

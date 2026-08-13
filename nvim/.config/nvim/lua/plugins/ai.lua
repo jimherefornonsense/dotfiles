@@ -10,6 +10,9 @@ return {
         },
         win = {
           layout = "right",
+          wo = {
+            winhighlight = "Normal:TerminalFocused,NormalNC:TerminalUnfocused,EndOfBuffer:TerminalFocused",
+          },
           float = {
             width = 0.9,
             height = 0.9,
